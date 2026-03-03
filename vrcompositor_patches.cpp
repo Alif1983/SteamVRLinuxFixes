@@ -200,7 +200,7 @@ bool PatchCreateDirectModeSurface() {
       std::cerr << "Patch applied to CreateDirectModeSurface "
                    "mode selection."
                 << std::endl;
-      return false;
+      return true;
     }
   }
   
